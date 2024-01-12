@@ -1,5 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Derrik LoCascio!
 
+
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50"
+
 <!--
 **dloc17/dloc17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
