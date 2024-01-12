@@ -5,6 +5,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50" /> <img 
 src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas logo" width="60" height="60" /> <img
 src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy logo" width="70" height="70" /> <img
+src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git logo" width="50" height="50" /> <img
 src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL logo" width="70" height="70" /> <img
 src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R logo" width="50" height="50" />
 
